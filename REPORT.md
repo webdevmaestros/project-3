@@ -3,6 +3,11 @@
 ## First Round of Testing
 
 **First Test:**
+- User notes that the check mark on the store front page is too big
+- User is confused as to why they can't insert more than one of each item in the cart from the store front page
+- User assumes the page title is clickable and it points to store front page, regardless of where they are in the checkout process
+- When user inputs something but the button to proceed doesn’t activate, they are confused and would like to know which field needs attention.
+- The user notes that the confirmation page layout is slightly confusing
 
 **Second Test:**
 
