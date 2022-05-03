@@ -26,6 +26,17 @@
 
 **First Test:**
 
+- User notes that weight of fruits should be added
+- User encountered bug that forced them to the cart page or the shipping page whenever an item is added to cart on the home page
+- User first confused by the "Remove" button when they did not add anything to cart
+- User had to look around to find the "Cart" button on mobile
+- User thought the quantity function worked well
+- Data autofilled in the correct locations
+- State data in JS should be changed to include state abbreviations
+- User encountered bug that switched keyboard type from digits to regular after entering one digit
+- User was confused on how to go back to the home page
+- Other than the home page bug and not knowing how to navigate back to the homepage, the user stated they had a good experience
+
 **Second Test:**
 - User notes that on mobile the navigaion bar should be centered and a tad smaller
 - User was conflicted about being able to remove from cart in shopping page. Feature was new to user and wasn't a fan but could see the benefit
