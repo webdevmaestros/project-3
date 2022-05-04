@@ -38,11 +38,11 @@
 - Other than the home page bug and not knowing how to navigate back to the homepage, the user stated they had a good experience
 
 **Second Test:**
-- User notes that on mobile the navigaion bar should be centered and a tad smaller
+- User notes that on mobile the navigation bar should be centered and a tad smaller
 - User was conflicted about being able to remove from cart in shopping page. Feature was new to user and wasn't a fan but could see the benefit
 - User wanted to see the amount of items in the cart from the store page
 - User was confused by country code, can enter example like "+1" similar to how name has "John Doe". Could also benefit from having an indicator for the country attached such as a flag
-- User clicked on billing button in naviagion when in shipping page which led to a 404 error
+- User clicked on billing button in navigation when in shipping page which led to a 404 error
 - User would have liked a confirmation number to be sent to their email on the thank you page
 - User noted that there was no obvious way to get back to store and there should be an express button to take the user back
 - User notes that the site flows nicely and looks nice and concise
@@ -54,8 +54,5 @@
 - User notes all pages flow very nicely and was easy to use!
 
 ## Next Steps to Further Improve store
-
-[] -
-[] -
-[] -
-[] -
+- [ ] Allow option for alphabetical view of items for store page
+- [ ] Resolve bug which brings user immediately to shipping page after clicking "add to cart" for their first item
