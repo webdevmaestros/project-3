@@ -25,7 +25,6 @@
 ## Second Round of Testing
 
 **First Test:**
-
 - User notes that weight of fruits should be added
 - User encountered bug that forced them to the cart page or the shipping page whenever an item is added to cart on the home page
 - User first confused by the "Remove" button when they did not add anything to cart
@@ -33,7 +32,7 @@
 - User thought the quantity function worked well
 - Data autofilled in the correct locations
 - State data in JS should be changed to include state abbreviations
-- User encountered bug that switched keyboard type from digits to regular after entering one digit
+- User encountered bug that switched keyboard type from digits to regular after entering one digit for CC number
 - User was confused on how to go back to the home page
 - Other than the home page bug and not knowing how to navigate back to the homepage, the user stated they had a good experience
 
@@ -54,5 +53,10 @@
 - User notes all pages flow very nicely and was easy to use!
 
 ## Next Steps to Further Improve store
-- [ ] Allow option for alphabetical view of items for store page
-- [ ] Resolve bug which brings user immediately to shipping page after clicking "add to cart" for their first item
+
+1. Resolve bug which brings user immediately to shipping page after clicking "add to cart" for their first item
+2. Fix bug on CC number input
+3. Allow option for alphabetical view of items for store page
+4. Add weights of fruits
+5. Fix bug on CC number input
+6. Only have "Remove" button appear when item is added
