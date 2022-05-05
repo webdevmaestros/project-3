@@ -60,3 +60,6 @@
 4. Add weights of fruits
 5. Fix bug on CC number input
 6. Only have "Remove" button appear when item is added
+7. Center navigation bar on mobile size pages
+8. Add example for country code
+9. Add a way back to store from the thank you page
